@@ -1,2 +1,9 @@
 超完整 Python 查詢表
 https://github.com/gto76/python-cheatsheet
+https://buzzorange.com/techorange/2019/07/16/github-python-resources/
+
+衝上 GitHub 熱門第四名！Python 機器學習最強教學資源，新手工程師快存起來
+https://buzzorange.com/techorange/2019/05/17/python-machine-learning-free-course/
+
+AI 工程師最佳入門資源！史丹佛公布「自然語言理解」免費課程，新手們趕快存起來
+https://buzzorange.com/techorange/2019/07/04/standford-new-free-course/
