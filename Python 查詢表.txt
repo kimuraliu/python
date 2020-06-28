@@ -1,0 +1,2 @@
+超完整 Python 查詢表
+https://github.com/gto76/python-cheatsheet
