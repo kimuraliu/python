@@ -12,3 +12,8 @@ conda activate ENVIRONMENT 切換至指定工作環境
 conda deactivate 回到 base 工作環境
 conda env export --name ENVIRONMENT --file ENVIRONMENT.yml 將指定工作環境之設定匯出為 .yml 檔藉此複製且重現工作環境
 conda remove --name ENVIRONMENT --all 移除指定工作環境
+
+
+-----------------------------------------------------------------------------
+安裝mysql套件
+conda install -c anaconda pymysql
