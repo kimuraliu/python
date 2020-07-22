@@ -17,3 +17,9 @@ conda remove --name ENVIRONMENT --all 移除指定工作環境
 -----------------------------------------------------------------------------
 安裝mysql套件
 conda install -c anaconda pymysql
+-----------------------------------------------------------------------------
+安裝bootstrap套件
+conda install -c conda-forge bootstrap
+-----------------------------------------------------------------------------
+安裝flask-bootstrap套件
+conda install -c conda-forge flask-bootstrap
