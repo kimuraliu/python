@@ -1,3 +1,6 @@
+江苏威名石化有限公司
+中国江苏省南通市如东县长沙镇洋口港经一路与中心路交叉口综合楼
+
 超完整 Python 查詢表
 https://github.com/gto76/python-cheatsheet
 https://buzzorange.com/techorange/2019/07/16/github-python-resources/
